@@ -15,7 +15,8 @@ group :development, :test do
   gem 'shoulda-matchers'
   gem 'factory_bot_rails'
   gem 'pry-rails'  
-end
+  gem 'simplecov', require: false, group: :test
+  end
 
 group :development do
   gem 'listen', '~> 3.3'
