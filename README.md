@@ -1,22 +1,15 @@
-# Unter
+# Unter-transportation
+## rails scaffolded app, setup wit rspec for testing api. 
+
+### [Coverage](https://codeclimate.com/github/dorianbuck/unter_challenge)
+### [Heroku git URL](https://git.heroku.com/unter-transportation.git)
+
+* Ruby version 3.0.2
+* Semaphore CI
+* RSpec
+* Simplecov
 
 
-
-* Ruby version 2.6.3
-
-* System dependencies
-- 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
 
 ##User Stories
 ```
