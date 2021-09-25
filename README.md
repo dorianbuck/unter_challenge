@@ -6,8 +6,11 @@
 
 * Ruby version 3.0.2
 * Semaphore CI
-* RSpec
 * Simplecov
+* RSpec
+* ShouldaMatchers
+* FactoryBot
+* Pry-rails
 
 
 
