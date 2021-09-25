@@ -1,5 +1,5 @@
 # Unter-transportation
-## rails scaffolded app, setup wit rspec for testing api. 
+## rails scaffolded app, setup with rspec for testing api. 
 
 ### [Coverage](https://codeclimate.com/github/dorianbuck/unter_challenge)
 ### [Heroku git URL](https://git.heroku.com/unter-transportation.git)
