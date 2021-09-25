@@ -25,6 +25,7 @@ blocks:
             - ./cc-test-reporter before-build
             - 'gem install bundler:2.2.27'
             - bundle update --bundler
+            - bundle install
             - 'bundle exec rails db:create db:migrate'
             - bundle exec rspec
       epilogue:
